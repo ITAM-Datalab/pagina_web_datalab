@@ -1,0 +1,25 @@
+{
+  "short_name": "DataLab ITAM",
+  "name": "DataLab ITAM - Datos para el cambio social",
+  "icons": [
+    {
+      "src": "logo_png.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "logo_png.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo_png.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2d7d7d",
+  "background_color": "#0a0a0a"
+}
